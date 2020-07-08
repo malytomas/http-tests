@@ -1,0 +1,19 @@
+[submodule "externals/buildsys/common"]
+	path = externals/buildsys/common
+	url = https://github.com/melowntech/buildsys-common.git
+[submodule "externals/buildsys/cmake"]
+	path = externals/buildsys/cmake
+	url = https://github.com/melowntech/buildsys-cmake.git
+[submodule "externals/libdbglog"]
+	path = externals/libdbglog
+	url = https://github.com/melowntech/libdbglog.git
+[submodule "externals/libhttp"]
+	path = externals/libhttp
+	url = https://github.com/melowntech/libhttp.git
+[submodule "externals/libutility"]
+	path = externals/libutility
+	url = https://github.com/melowntech/libutility.git
+
+[submodule "externals/libservice"]
+	path = externals/libservice
+	url = https://github.com/melowntech/libservice.git

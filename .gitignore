@@ -1,0 +1,6 @@
+/*.changes
+/*.deb
+/*.buildinfo
+/*.upload
+.*.sw*
+.*~

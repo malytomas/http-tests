@@ -1,0 +1,15 @@
+bin
+build
+build.*
+lib
+core
+vgcore.*
+obj-x86_64-linux-gnu
+output
+.gdb_history
+*.log
+cmake-build-debug
+cmake-build-release
+.idea
+*.user
+tmp
