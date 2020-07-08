@@ -17,3 +17,6 @@
 [submodule "externals/libservice"]
 	path = externals/libservice
 	url = https://github.com/melowntech/libservice.git
+[submodule "externals/curl/curl"]
+	path = externals/curl/curl
+	url = https://github.com/curl/curl
